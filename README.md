@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning next.js
 - 💼 I’m open to work
 - 💻 You visit me at https://www.kushthakker.com
+- ![](https://komarev.com/ghpvc/?username=kushthakker)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushthakker&theme=tokyonight&layout=&langs_count=5">
 
