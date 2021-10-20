@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kushthakker
 - 👀 I’m interested in web design and development
-- 🌱 I’m currently working with next.js
+- 🌱 I’m currently working with express and node js.
 - 💼 I’m open to work
 - 💻 view my portfolio at https://www.kushthakker.com
 - ![](https://komarev.com/ghpvc/?username=kushthakker)
