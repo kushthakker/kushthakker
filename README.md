@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @kushthakker
-- 👀 I’m interested in web design and development
-- 🌱 I’m currently working with express and node js.
-- 💼 I’m open to work
+- 👋 Hi, I’m @kushthakker, Full Stack Developer
+- 💼 [Intern at GalaxEye](https://twitter.com/GalaxEye)
 - 💻 view my portfolio at https://www.kushthakker.com
 - ![](https://komarev.com/ghpvc/?username=kushthakker)
 
