@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @kushthakker, Full Stack Developer
-- 💼 [Intern at GalaxEye](https://twitter.com/GalaxEye)
-- 💻 view my portfolio at https://www.kushthakker.com
-- ![](https://komarev.com/ghpvc/?username=kushthakker)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushthakker&theme=tokyonight&layout=&langs_count=5">
+- 👋 Hi, I’m Kush Thakker
+- 💼 Head of Product Operations [@GalaxEye Space](https://www.linkedin.com/company/galaxeye/)
+- 💻  https://www.kushthakker.com
+- Follow me on 🐦 [twitter](https://twitter.com/just_kush_)
 
 <!---
 kushthakker/kushthakker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
