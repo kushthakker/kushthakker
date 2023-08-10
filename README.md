@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kush Thakker</h1>
-<h3 align="center">Head of Product Operations @Tendfixai</h3>
+<h3 align="center">Head of Product @Tendfixai</h3>
 
 <p align="left"> <a href="https://twitter.com/soy_kush" target="blank"><img src="https://img.shields.io/twitter/follow/soy_kush?logo=twitter&style=for-the-badge" alt="soy_kush" /></a> </p>
 
